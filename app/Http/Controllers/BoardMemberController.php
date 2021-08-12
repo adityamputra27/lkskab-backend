@@ -90,7 +90,7 @@ class BoardMemberController extends Controller
      */
     public function edit($id)
     {
-        //
+        
     }
 
     /**
